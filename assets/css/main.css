@@ -1345,7 +1345,7 @@ a.mobile-show.search-bar-icon:hover {
 
 ----------------------------------------------------------------------------- */
 .hero-bg {
-  background-image: url(../img/hero-bg.jpg);
+  background-image: url(../img/cover1.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -2050,7 +2050,7 @@ a.video-play-btn {
 }
 
 .abt-bg {
-  background-image: url(../img/abt.jpg);
+  background-image: url(../img/revega.jpg);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -2142,7 +2142,7 @@ a.video-play-btn {
 }
 
 .feature-bg:after {
-  background-image: url(../img/feature-bg.jpg);
+  background-image: url(../img/revega2.jpg);
   position: absolute;
   right: 0;
   top: 0;
@@ -2157,21 +2157,6 @@ a.video-play-btn {
   border-bottom-left-radius: 5px;
 }
 
-.team-bg-1 {
-  background-image: url(../img/team/team-1.jpg);
-}
-
-.team-bg-2 {
-  background-image: url(../img/team/team-2.jpg);
-}
-
-.team-bg-3 {
-  background-image: url(../img/team/team-3.jpg);
-}
-
-.team-bg-4 {
-  background-image: url(../img/team/team-4.jpg);
-}
 
 .team-bg {
   height: 400px;
@@ -2739,3 +2724,11 @@ table.order-details tbody td {
   vertical-align: middle;
   width: 100%;
 }
+
+/* Style for the dropdown */
+/* Style for the dropdown */
+
+
+
+
+
